@@ -1,4 +1,5 @@
 # Reversing the Twenty Questions Game
+[In collaboration with Parth Parikh (pmparikh@ncsu.edu), CSC791, Department of Computer Science, North Carolina State University]
 
 Twenty questions is a widely popular verbal game. In recent years, many computerized versions of this game have been developed in which a user thinks of an entity and a computer attempts to guess this entity by asking a series of boolean-type (yes/no) questions. In this research, we aim to reverse this game by making the computer choose an entity at random. The human aims to guess this entity by quizzing the computer with natural language queries which the computer will then attempt to parse using a boolean question answering model. The game ends when the human is successfully able to guess the entity of the computer’s choice.
 
